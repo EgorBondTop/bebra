@@ -1,6 +1,6 @@
 # This is my repository
 ### My name is CAT
-![my photo](https://user-images.githubusercontent.com/60629407/139448835-f6520 s.githubusercontent.com/60629407/139448835-f652c6bd-02bf-4654-8e25-9d947acf7581.png)
+![my photo](<img width="237" height="243" alt="Знімок екрана 2025-04-06 203750" src="https://github.com/user-attachments/assets/64cca2c0-b64e-4f70-a96c-c4b028a6975a" />)
 **I'm javascript developer.**
 *There is Example of my code:*
 ""javascript
